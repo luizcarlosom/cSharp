@@ -1,0 +1,15 @@
+C:\Users\Luiz Carlos\OneDrive\Documentos\GitHub\cSharp\tutorialCsharp003\bin\Release\net7.0\tutorialCsharp003.exe
+C:\Users\Luiz Carlos\OneDrive\Documentos\GitHub\cSharp\tutorialCsharp003\bin\Release\net7.0\tutorialCsharp003.deps.json
+C:\Users\Luiz Carlos\OneDrive\Documentos\GitHub\cSharp\tutorialCsharp003\bin\Release\net7.0\tutorialCsharp003.runtimeconfig.json
+C:\Users\Luiz Carlos\OneDrive\Documentos\GitHub\cSharp\tutorialCsharp003\bin\Release\net7.0\tutorialCsharp003.dll
+C:\Users\Luiz Carlos\OneDrive\Documentos\GitHub\cSharp\tutorialCsharp003\bin\Release\net7.0\tutorialCsharp003.pdb
+C:\Users\Luiz Carlos\OneDrive\Documentos\GitHub\cSharp\tutorialCsharp003\obj\Release\net7.0\tutorialCsharp003.csproj.AssemblyReference.cache
+C:\Users\Luiz Carlos\OneDrive\Documentos\GitHub\cSharp\tutorialCsharp003\obj\Release\net7.0\tutorialCsharp003.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luiz Carlos\OneDrive\Documentos\GitHub\cSharp\tutorialCsharp003\obj\Release\net7.0\tutorialCsharp003.AssemblyInfoInputs.cache
+C:\Users\Luiz Carlos\OneDrive\Documentos\GitHub\cSharp\tutorialCsharp003\obj\Release\net7.0\tutorialCsharp003.AssemblyInfo.cs
+C:\Users\Luiz Carlos\OneDrive\Documentos\GitHub\cSharp\tutorialCsharp003\obj\Release\net7.0\tutorialCsharp003.csproj.CoreCompileInputs.cache
+C:\Users\Luiz Carlos\OneDrive\Documentos\GitHub\cSharp\tutorialCsharp003\obj\Release\net7.0\tutorialCsharp003.dll
+C:\Users\Luiz Carlos\OneDrive\Documentos\GitHub\cSharp\tutorialCsharp003\obj\Release\net7.0\refint\tutorialCsharp003.dll
+C:\Users\Luiz Carlos\OneDrive\Documentos\GitHub\cSharp\tutorialCsharp003\obj\Release\net7.0\tutorialCsharp003.pdb
+C:\Users\Luiz Carlos\OneDrive\Documentos\GitHub\cSharp\tutorialCsharp003\obj\Release\net7.0\tutorialCsharp003.genruntimeconfig.cache
+C:\Users\Luiz Carlos\OneDrive\Documentos\GitHub\cSharp\tutorialCsharp003\obj\Release\net7.0\ref\tutorialCsharp003.dll

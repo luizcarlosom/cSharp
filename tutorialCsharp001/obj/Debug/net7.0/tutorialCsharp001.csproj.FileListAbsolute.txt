@@ -1,0 +1,15 @@
+C:\Users\Luiz Carlos\OneDrive\Documentos\GitHub\cSharp\tutorialCsharp001\obj\Debug\net7.0\tutorialCsharp001.csproj.AssemblyReference.cache
+C:\Users\Luiz Carlos\OneDrive\Documentos\GitHub\cSharp\tutorialCsharp001\obj\Debug\net7.0\tutorialCsharp001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luiz Carlos\OneDrive\Documentos\GitHub\cSharp\tutorialCsharp001\obj\Debug\net7.0\tutorialCsharp001.AssemblyInfoInputs.cache
+C:\Users\Luiz Carlos\OneDrive\Documentos\GitHub\cSharp\tutorialCsharp001\obj\Debug\net7.0\tutorialCsharp001.AssemblyInfo.cs
+C:\Users\Luiz Carlos\OneDrive\Documentos\GitHub\cSharp\tutorialCsharp001\obj\Debug\net7.0\tutorialCsharp001.csproj.CoreCompileInputs.cache
+C:\Users\Luiz Carlos\OneDrive\Documentos\GitHub\cSharp\tutorialCsharp001\bin\Debug\net7.0\tutorialCsharp001.exe
+C:\Users\Luiz Carlos\OneDrive\Documentos\GitHub\cSharp\tutorialCsharp001\bin\Debug\net7.0\tutorialCsharp001.deps.json
+C:\Users\Luiz Carlos\OneDrive\Documentos\GitHub\cSharp\tutorialCsharp001\bin\Debug\net7.0\tutorialCsharp001.runtimeconfig.json
+C:\Users\Luiz Carlos\OneDrive\Documentos\GitHub\cSharp\tutorialCsharp001\bin\Debug\net7.0\tutorialCsharp001.dll
+C:\Users\Luiz Carlos\OneDrive\Documentos\GitHub\cSharp\tutorialCsharp001\bin\Debug\net7.0\tutorialCsharp001.pdb
+C:\Users\Luiz Carlos\OneDrive\Documentos\GitHub\cSharp\tutorialCsharp001\obj\Debug\net7.0\tutorialCsharp001.dll
+C:\Users\Luiz Carlos\OneDrive\Documentos\GitHub\cSharp\tutorialCsharp001\obj\Debug\net7.0\refint\tutorialCsharp001.dll
+C:\Users\Luiz Carlos\OneDrive\Documentos\GitHub\cSharp\tutorialCsharp001\obj\Debug\net7.0\tutorialCsharp001.pdb
+C:\Users\Luiz Carlos\OneDrive\Documentos\GitHub\cSharp\tutorialCsharp001\obj\Debug\net7.0\tutorialCsharp001.genruntimeconfig.cache
+C:\Users\Luiz Carlos\OneDrive\Documentos\GitHub\cSharp\tutorialCsharp001\obj\Debug\net7.0\ref\tutorialCsharp001.dll

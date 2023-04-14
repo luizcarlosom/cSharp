@@ -7,7 +7,7 @@
             "type": "process",
             "args": [
                 "build",
-                "${workspaceFolder}/Ex001/Ex001.csproj",
+                "${workspaceFolder}/tutorialCsharp003/tutorialCsharp003.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
@@ -19,7 +19,7 @@
             "type": "process",
             "args": [
                 "publish",
-                "${workspaceFolder}/Ex001/Ex001.csproj",
+                "${workspaceFolder}/tutorialCsharp003/tutorialCsharp003.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
@@ -33,7 +33,7 @@
                 "watch",
                 "run",
                 "--project",
-                "${workspaceFolder}/Ex001/Ex001.csproj"
+                "${workspaceFolder}/tutorialCsharp003/tutorialCsharp003.csproj"
             ],
             "problemMatcher": "$msCompile"
         }
