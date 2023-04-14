@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5GNLVjgQFsE0aDOwmZqdweZiJAJ5u7mIT0SzPW1oX6YJ54knT7I73NDn6+2bSx0rchK+BC7TFeqVe70BuGj7bw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Luiz Carlos\\OneDrive\\Documentos\\GitHub\\cSharp\\mslearn-dotnet-files\\mslearn-dotnet-file.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Luiz Carlos\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

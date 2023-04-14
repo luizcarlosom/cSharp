@@ -1,0 +1,17 @@
+C:\Users\Luiz Carlos\OneDrive\Documentos\GitHub\cSharp\mslearn-dotnet-files\bin\Debug\net7.0\mslearn-dotnet-file.exe
+C:\Users\Luiz Carlos\OneDrive\Documentos\GitHub\cSharp\mslearn-dotnet-files\bin\Debug\net7.0\mslearn-dotnet-file.deps.json
+C:\Users\Luiz Carlos\OneDrive\Documentos\GitHub\cSharp\mslearn-dotnet-files\bin\Debug\net7.0\mslearn-dotnet-file.runtimeconfig.json
+C:\Users\Luiz Carlos\OneDrive\Documentos\GitHub\cSharp\mslearn-dotnet-files\bin\Debug\net7.0\mslearn-dotnet-file.dll
+C:\Users\Luiz Carlos\OneDrive\Documentos\GitHub\cSharp\mslearn-dotnet-files\bin\Debug\net7.0\mslearn-dotnet-file.pdb
+C:\Users\Luiz Carlos\OneDrive\Documentos\GitHub\cSharp\mslearn-dotnet-files\obj\Debug\net7.0\mslearn-dotnet-file.csproj.AssemblyReference.cache
+C:\Users\Luiz Carlos\OneDrive\Documentos\GitHub\cSharp\mslearn-dotnet-files\obj\Debug\net7.0\mslearn-dotnet-file.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luiz Carlos\OneDrive\Documentos\GitHub\cSharp\mslearn-dotnet-files\obj\Debug\net7.0\mslearn-dotnet-file.AssemblyInfoInputs.cache
+C:\Users\Luiz Carlos\OneDrive\Documentos\GitHub\cSharp\mslearn-dotnet-files\obj\Debug\net7.0\mslearn-dotnet-file.AssemblyInfo.cs
+C:\Users\Luiz Carlos\OneDrive\Documentos\GitHub\cSharp\mslearn-dotnet-files\obj\Debug\net7.0\mslearn-dotnet-file.csproj.CoreCompileInputs.cache
+C:\Users\Luiz Carlos\OneDrive\Documentos\GitHub\cSharp\mslearn-dotnet-files\obj\Debug\net7.0\mslearn-dotnet-file.dll
+C:\Users\Luiz Carlos\OneDrive\Documentos\GitHub\cSharp\mslearn-dotnet-files\obj\Debug\net7.0\refint\mslearn-dotnet-file.dll
+C:\Users\Luiz Carlos\OneDrive\Documentos\GitHub\cSharp\mslearn-dotnet-files\obj\Debug\net7.0\mslearn-dotnet-file.pdb
+C:\Users\Luiz Carlos\OneDrive\Documentos\GitHub\cSharp\mslearn-dotnet-files\obj\Debug\net7.0\mslearn-dotnet-file.genruntimeconfig.cache
+C:\Users\Luiz Carlos\OneDrive\Documentos\GitHub\cSharp\mslearn-dotnet-files\obj\Debug\net7.0\ref\mslearn-dotnet-file.dll
+C:\Users\Luiz Carlos\OneDrive\Documentos\GitHub\cSharp\mslearn-dotnet-files\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Luiz Carlos\OneDrive\Documentos\GitHub\cSharp\mslearn-dotnet-files\obj\Debug\net7.0\mslearn-dotnet-file.csproj.CopyComplete
